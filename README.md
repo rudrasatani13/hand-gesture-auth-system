@@ -143,8 +143,8 @@ Distributed under the MIT License. See `LICENSE` for more info.
 ## 📬 Contact
 
 Your Name
-📧 [your.email@example.com](mailto:your.email@example.com)
-🔗 Project Link: [GitHub](https://github.com/yourusername/hand-gesture-auth-system)
+📧 [your.email@example.com](mailto:rudrasatani@gmail.com)
+🔗 Project Link: [GitHub](https://github.com/rudrasatani13/hand-gesture-auth-system)
 
 ---
 
