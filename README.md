@@ -27,7 +27,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/hand-gesture-auth-system.git
+   git clone https://github.com/rudrasatani13/hand-gesture-auth-system.git
    cd hand-gesture-auth-system
    ```
 
